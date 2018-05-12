@@ -15,6 +15,8 @@ creator:
     gutenberg_agent_id: '37031'
     url: http://www.gutenberg.org/2009/agents/37031
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34447#Across-the-Prairie-in-a-Motor-CaravanA-3-000-Mile-Tour-by-Two-Englishwomen-on-Behalf-of-Relig_
 gutenberg_issued: '2010-11-26'
 gutenberg_type: Text
 identifiers:
